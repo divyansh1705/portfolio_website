@@ -3,7 +3,7 @@
   publish = "out"
 
 [context.production.environment]
-  GROQ_API_KEY = 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
+  GROQ_API_KEY = "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"
 
 [dev]
   command = "npm run dev"
