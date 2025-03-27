@@ -219,7 +219,7 @@ export default function Home() {
                 You can use it to ask questions about me to get a better idea of who I am and what I've done.
               </p>
               <p>
-                You can also download my resume here if you want to take a look at it. I'm currently looking for new opportunities
+                Take a look at my resume. I'm currently looking for new opportunities
                 so if you have a project you think I'd be a good fit for, please get in touch!
               </p>
               <a href="./Sample_Resume_Template.pdf" className="button black" target="_blank" rel="noopener noreferrer">
