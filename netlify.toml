@@ -1,8 +1,11 @@
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = "out"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+[context.production.environment]
+  GROQ_API_KEY = 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
+
+[dev]
+  command = "npm run dev"
+  port = 3000
+  targetPort = 3000
