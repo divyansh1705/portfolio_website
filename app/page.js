@@ -222,9 +222,6 @@ export default function Home() {
                 Take a look at my resume. I'm currently looking for new opportunities
                 so if you have a project you think I'd be a good fit for, please get in touch!
               </p>
-              <a href="./Sample_Resume_Template.pdf" className="button black" target="_blank" rel="noopener noreferrer">
-                Download Resume
-              </a>
             </div>
 
             <div className="chat-box">
