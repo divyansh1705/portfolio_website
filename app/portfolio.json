@@ -1,0 +1,77 @@
+{
+    "name": "Divyansh",
+    "education": {
+      "degree": "Bachelor of Technology (B.Tech), Computer Science and Engineering",
+      "institution": "Indian Institute of Information Technology, Bhopal",
+      "cgpa": "9.29",
+      "classXii": {
+        "board": "CBSE",
+        "year": "2022",
+        "percentage": "94.4%"
+      }
+    },
+    "technicalSkills": [
+      "C",
+      "C++",
+      "Object-Oriented Programming (OOP)",
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "webDevelopment": [
+      "MERN Stack (MongoDB, Express.js, React.js, Node.js)",
+      "HTML",
+      "CSS",
+      "API Development and Integration",
+      "Full-Stack Development"
+    ],
+    "tools": [
+      "Version Control (Git)",
+      "GitHub",
+      "Linux Fundamentals"
+    ],
+    "otherSkills": [
+      "Algorithms and Data Structures"
+    ],
+    "skillsInProgress": [
+      "Cloud Platforms: AWS",
+      "CI/CD Pipelines: GitHub Actions, Jenkins, Docker, Kubernetes"
+    ],
+    "personalProjects": [
+      {
+        "title": "ArtiePIX (Full-stack AI Image Generator)",
+        "description": "A stable diffusion prompt using RapidAPI to generate custom AI images. Features user authentication, advanced search, responsive UI, and comment section. Deployed as a standalone product.",
+        "technologies": ["React", "RapidAPI", "Authentication", "Responsive UI"],
+        "githubLink": ""
+      },
+      {
+        "title": "Chrome Extension",
+        "description": "Built with Manifest V3, TypeScript, Firebase, BlocC, and Clean Architecture. Uses a micro-frontend approach, integrates with multiple web apps, and can capture user interactions. Designed for real-time usage analytics.",
+        "technologies": ["Manifest V3", "TypeScript", "Firebase", "BlocC"],
+        "githubLink": "https://github.com/divyansh7576"
+      },
+      {
+        "title": "Chat Application (MERN, Socket.io, DaisyUI)",
+        "description": "Real-time chat application with the MERN stack and Socket.io. Features a user-friendly interface using DaisyUI, user authentication with JWT, and MongoDB for data persistence.",
+        "technologies": ["MERN Stack", "Socket.io", "DaisyUI", "JWT", "MongoDB"],
+        "githubLink": ""
+      },
+      {
+        "title": "Time & Travel Planning Website (MERN)",
+        "description": "Full-stack MERN application with user authentication, trip-rating features, RESTful APIs, and cost estimation for travel planning. Provides front-end/back-end sync and dynamic trip recommendations.",
+        "technologies": ["MERN Stack", "RESTful APIs", "User Authentication"],
+        "githubLink": "https://github.com/divyansh7576"
+      }
+    ],
+    "certificationsAndAchievements": [
+      "Completed Machine Learning: Regression and Classification (Harvard ML Specialization)",
+      "Secured AIR 916 (92 percentile) in JEE Mains 2023",
+      "Secured some HPC GSoC 2023 achievement (placeholder)",
+      "Additional random placeholders for achievements"
+    ],
+    "links": {
+      "leetcode": "https://leetcode.com/Divyansh7576",
+      "github": "https://github.com/divyansh7576"
+    }
+  }
+  
